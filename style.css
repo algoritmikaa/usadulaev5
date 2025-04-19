@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background:rgb(0, 0, 160);
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+
+header a {
+    text-decoration:none;
+    background:white;
+    padding:5px;
+    border-radius:10px
+}
+
+header img {
+    border-radius:15px;
+    margin:10px;
+}
+
+header b {
+color:white;
+}
+
+main h1{
+    text-align:center;
+    color:red;
+    border-bottom:1px black solid;
+}
+
+footer p {
+    background:white;
+    color:darkred;
+}
+
+footer {
+    background:palevioletred ;
+}
+
+nav a {
+    background:darkblue;
+    color:black;
+    text-decoration:none;
+    border-radius:10px;
+    padding:7px;
+    margin:15px;
+    color:white;
+}
+
+.algo {
+    background:white;
+    color:darkblue;
+    border:2px darkblue solid;
+}
+
+main p{
+    border-bottom:1px black solid;
+    color:orange;
+}
+
+main h2 {
+    color:blue;
+}
